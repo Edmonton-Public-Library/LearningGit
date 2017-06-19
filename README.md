@@ -1,5 +1,3 @@
-# LearningGit
+"# LearningGit" 
 
 Additional Text...
-
-I'm not sure what's going on here...
